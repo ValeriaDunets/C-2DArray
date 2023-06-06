@@ -1,0 +1,15 @@
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/bin/Debug/net6.0/С# ДЗ Двум массиы
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/bin/Debug/net6.0/С# ДЗ Двум массиы.deps.json
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/bin/Debug/net6.0/С# ДЗ Двум массиы.runtimeconfig.json
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/bin/Debug/net6.0/С# ДЗ Двум массиы.dll
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/bin/Debug/net6.0/С# ДЗ Двум массиы.pdb
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/obj/Debug/net6.0/С# ДЗ Двум массиы.csproj.AssemblyReference.cache
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/obj/Debug/net6.0/С# ДЗ Двум массиы.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/obj/Debug/net6.0/С# ДЗ Двум массиы.AssemblyInfoInputs.cache
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/obj/Debug/net6.0/С# ДЗ Двум массиы.AssemblyInfo.cs
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/obj/Debug/net6.0/С# ДЗ Двум массиы.csproj.CoreCompileInputs.cache
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/obj/Debug/net6.0/С# ДЗ Двум массиы.dll
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/obj/Debug/net6.0/refint/С# ДЗ Двум массиы.dll
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/obj/Debug/net6.0/С# ДЗ Двум массиы.pdb
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/obj/Debug/net6.0/С# ДЗ Двум массиы.genruntimeconfig.cache
+/Users/valeriadunets/Desktop/С# ДЗ Двум массиы/obj/Debug/net6.0/ref/С# ДЗ Двум массиы.dll
